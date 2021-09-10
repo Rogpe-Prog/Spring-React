@@ -1,4 +1,4 @@
-# Primeiro dia da Semana React & Spring
+# Semana React & Spring
 ## === by Prof. Nelio Alves ===
 
 
