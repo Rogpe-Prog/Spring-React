@@ -18,3 +18,17 @@
 * Consultas agrupadas para gráficos
 * Implantação na nuvem
 
+## Objetivos do projeto para Aula 03
+### 		10/09/2021
+* Integrar back end e front end
+* Três pilares do React
+* Componentes
+** Props
+** Estado
+* React Hooks
+** useState
+** useEffect
+* Libs
+** React Router DOM
+** Axios
+
