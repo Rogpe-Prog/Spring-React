@@ -23,12 +23,12 @@
 * Integrar back end e front end
 * Três pilares do React
 * Componentes
-** Props
-** Estado
+  * Props
+  * Estado
 * React Hooks
-** useState
-** useEffect
+  * useState
+  * useEffect
 * Libs
-** React Router DOM
-** Axios
+  * React Router DOM
+  * Axios
 
